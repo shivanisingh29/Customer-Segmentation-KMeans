@@ -10,10 +10,13 @@
 - Jupyter Notebook / PyCharm
 - Dataset from kaggle.com(Dataset: Mall_Customers.csv) 
 
-##Features used:
+## Features used:
 - Annual Income (k$)
 - Spending Score (1-100)
 
+## Dataset
+  Real world dataset from kaggle.com
+  
 ## What I Did
 Loaded Mall Customers dataset using Pandas
 Selected key features — Annual Income and Spending Score
